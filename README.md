@@ -1,7 +1,8 @@
 This is a starter template for [Learn Next.js](https://nextjs.org/learn).
 
 #
-![image](https://user-images.githubusercontent.com/79369079/205422072-e2b97d0e-a485-4a4c-ae01-d7d14f186799.png)
+![image](https://user-images.githubusercontent.com/79369079/205422133-60e872d4-ab7f-4efd-a0fe-9f4db748d67b.png)
+
 
 ## Errores al ejecutar los siguientes comandos
 
