@@ -1,12 +1,12 @@
 This is a starter template for [Learn Next.js](https://nextjs.org/learn).
 
 #
-![image](https://user-images.githubusercontent.com/79369079/205421984-dd8f6e5d-0b91-415c-a594-36ccebe6c38e.png)
+![image](https://user-images.githubusercontent.com/79369079/205422072-e2b97d0e-a485-4a4c-ae01-d7d14f186799.png)
 
-# Errores al ejecutar los siguientes comandos
+## Errores al ejecutar los siguientes comandos
 
-## npm run dev
+* npm run dev
 
-## npm run buil 
+* npm run buil 
 
-## npm start
+* npm start
